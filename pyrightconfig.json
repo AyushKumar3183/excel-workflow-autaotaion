@@ -1,0 +1,18 @@
+{
+  "include": [
+    "ai-agent-workflow"
+  ],
+  "extraPaths": [
+    "ai-agent-workflow"
+  ],
+  "venvPath": "ai-agent-workflow",
+  "venv": ".venv",
+  "executionEnvironments": [
+    {
+      "root": "ai-agent-workflow",
+      "extraPaths": [
+        "ai-agent-workflow"
+      ]
+    }
+  ]
+}

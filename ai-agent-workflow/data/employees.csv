@@ -1,0 +1,6 @@
+employee_id,name,email,role,skills,current_workload_hours,max_capacity_hours
+EMP-001,Sarah Chen,sarah.chen@company.com,Senior Backend Engineer,python;fastapi;postgresql;docker;api_optimization,28,40
+EMP-002,Marcus Johnson,marcus.j@company.com,Frontend Specialist,react;typescript;css;nextjs;ui_ux,36,40
+EMP-003,Priya Sharma,priya.s@company.com,DevOps / Cloud Engineer,kubernetes;terraform;aws;docker;ci_cd,20,40
+EMP-004,Alex Rivera,alex.r@company.com,Full Stack Developer,python;react;sqlite;data_analysis,38,40
+EMP-005,Emma Watson,emma.w@company.com,QA Automation Lead,pytest;playwright;selenium;api_testing,15,40

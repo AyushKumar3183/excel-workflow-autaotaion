@@ -1,0 +1,9 @@
+sku,product_name,category,current_stock,minimum_stock,unit_price
+SKU-1001,Wireless Noise-Canceling Headphones,Electronics,12,25,99.99
+SKU-1002,Ergonomic Mechanical Keyboard,Electronics,45,30,129.50
+SKU-1003,USB-C Multi-Port Hub,Electronics,8,20,39.99
+SKU-1004,Stainless Steel Water Bottle,Home & Kitchen,15,50,24.00
+SKU-1005,Organic Cotton Crew T-Shirt,Apparel,60,40,19.99
+SKU-1006,Ceramic Coffee Mug 16oz,Home & Kitchen,5,30,14.50
+SKU-1007,Bluetooth Smart Speaker,Electronics,18,20,59.99
+SKU-1008,Running Athletic Shoes,Footwear,2,15,89.00

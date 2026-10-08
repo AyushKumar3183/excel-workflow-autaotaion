@@ -1,0 +1,8 @@
+{"execution_id": "exec-101", "workflow_id": "WF001", "step_no": 1, "tool": "load_file", "status": "COMPLETED", "duration_ms": 14, "error": null, "timestamp": "2026-10-06T10:00:00"}
+{"execution_id": "exec-101", "workflow_id": "WF001", "step_no": 2, "tool": "compare_threshold", "status": "COMPLETED", "duration_ms": 22, "error": null, "timestamp": "2026-10-06T10:00:01"}
+{"execution_id": "exec-102", "workflow_id": "WF002", "step_no": 1, "tool": "load_file", "status": "COMPLETED", "duration_ms": 15, "error": null, "timestamp": "2026-10-06T11:00:00"}
+{"execution_id": "exec-102", "workflow_id": "WF002", "step_no": 2, "tool": "join_on", "status": "FAILED", "duration_ms": 5200, "error": "Timeout joining vendor datasets", "timestamp": "2026-10-06T11:00:05"}
+{"execution_id": "exec-103", "workflow_id": "WF003", "step_no": 1, "tool": "load_file", "status": "COMPLETED", "duration_ms": 19, "error": null, "timestamp": "2026-10-06T12:00:00"}
+{"execution_id": "exec-104", "workflow_id": "WF005", "step_no": 1, "tool": "validate_data", "status": "COMPLETED", "duration_ms": 8, "error": null, "timestamp": "2026-10-06T13:00:00"}
+{"execution_id": "exec-105", "workflow_id": "WF002", "step_no": 1, "tool": "load_file", "status": "COMPLETED", "duration_ms": 12, "error": null, "timestamp": "2026-10-06T14:00:00"}
+{"execution_id": "exec-105", "workflow_id": "WF002", "step_no": 2, "tool": "join_on", "status": "FAILED", "duration_ms": 6100, "error": "Connection reset", "timestamp": "2026-10-06T14:00:06"}

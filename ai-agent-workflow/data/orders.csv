@@ -1,0 +1,6 @@
+order_id,customer_email,order_date,status,total_amount,items,shipment_id,tracking_number
+ORD-1001,alice@example.com,2026-09-15,Delivered,129.50,SKU-1002,SHIP-8001,TRK-99001122
+ORD-1002,bob@example.com,2026-10-01,Shipped,99.99,SKU-1001,SHIP-8002,TRK-99003344
+ORD-1003,carol@example.com,2026-10-05,Processing,63.99,SKU-1003;SKU-1004,SHIP-8003,TRK-PENDING
+ORD-1004,david@example.com,2026-10-06,Confirmed,14.50,SKU-1006,,
+ORD-1005,elena@example.com,2026-10-07,Out for Delivery,89.00,SKU-1008,SHIP-8004,TRK-99005566
